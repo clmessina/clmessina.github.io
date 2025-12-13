@@ -5,6 +5,6 @@ tags:
 categories: photography
 ---
 {% grouppicture 2-1 %}
-![](/img/307.png)
-![](/img/518.png)
+![](/img/japan/307.png)
+![](/img/japan/518.png)
 {% endgrouppicture %}
